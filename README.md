@@ -3,5 +3,12 @@
 # Solutions to Hackerrank practice problems
 
 - Python
-    01. Introduction
-        - Say Hello, World! With Python
+    01. Fundamental Skills
+        - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)
+        - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)
+        - Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/70402456)
+        - Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem)
+        - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem)
+        - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem)
+        - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem)
+        
