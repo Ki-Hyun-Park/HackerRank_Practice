@@ -3,7 +3,7 @@
 # Solutions to Hackerrank practice problems
 
 - Python
-      Fundamental Skills
+      01. Fundamental Skills
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)
         - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)
         - Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/70402456)
